@@ -48,4 +48,8 @@ Run the server
  `npm start`. 
  
 Use Insomnia Core to check routes
+
+## Walkthrough
+	- mysql set up database, start local host - https://watch.screencastify.com/v/t8qI8t9tSmRPgWT9IVwo
+	- Insomnia GET/POST/PUT/DELETE for all routes - https://watch.screencastify.com/v/goLtoHwK9V3tUmgmV5iO
     
